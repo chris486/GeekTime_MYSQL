@@ -1,5 +1,5 @@
 # 01、基础架构
-![mysql基础架构图]("")
+![mysql基础架构图]("https://github.com/chris486/GeekTime_MYSQL/blob/master/01.png")
 
 1、mysql架构组成：server层 + 存储引擎层
 
