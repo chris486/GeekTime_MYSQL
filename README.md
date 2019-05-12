@@ -6,7 +6,7 @@
 ## [03 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson03.md)
 ## [04 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson04.md)
 ## [05 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson05.md)
-## [06 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson06.md)
+## [06 全局锁和表锁 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson06.md)
 ## [07 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson07.md)
 ## [08 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson08.md)
 ## [09 ](https://github.com/chris486/GeekTime_MYSQL/blob/master/lessons/lesson09.md)
