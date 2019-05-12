@@ -34,6 +34,8 @@ redo.log & binlog 的区别：
 4. 执行器生成这个操作的 binlog，并把 binlog 写入磁盘。 
 5. 执行器调用引擎的提交事务接口，引擎把刚刚写入的 redo log 改成提交 commit 状态，更新完成（两阶段提交）。
 
+![ redo log ](https://github.com/chris486/GeekTime_MYSQL/blob/master/pic/02_2.png)
+
 ## 3、两阶段提交
 
 redo log 的写入有两个步骤：prepare 和 commit
