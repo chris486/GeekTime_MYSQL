@@ -14,7 +14,7 @@ WAL（Write-Ahead logging）技术: 先写日志，再写磁盘
 
 - InnoDB 的 redo log 是固定大小的，比如可以配置为一组 4 个文件，每个文件的大小是 1GB，那么这个文件总共就可以记录 4GB 的操作。从头开始写，写到末尾就又回到开头循环写
 
-![ redo log ](https://github.com/chris486/GeekTime_MYSQL/blob/master/pic/02_1.png)
+![ redo log ](../pic/02_1.png)
 
 ## 2、逻辑日志--归档日志 binlog
 
